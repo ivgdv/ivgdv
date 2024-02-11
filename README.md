@@ -3,7 +3,6 @@
 - 🌱 I’m megaman x and zelda fan...
 - 💞️ I’m looking to collaborate on gdevelop5 ...
 - 📫 How to reach me
-- yt/ UCUdWDUzWySQ_tt_rQXlaAMA
 -discord/ https://discord.gg/f8nTTqjsQt
 -  si
   
