@@ -1,2 +1,2 @@
-esteshader se hicreo con 1 evento y 2 lineas de codigo
-solo descomprime y abrelo en gdevelop 5
+runtimeScene.setBackgroundColor(100,100,240);
+StorageEvent-toString!"DRAWSHOCKWABE"
